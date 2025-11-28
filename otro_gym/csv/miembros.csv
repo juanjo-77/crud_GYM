@@ -1,0 +1,5 @@
+id,nombre,documento,telefono,correo,plan,inicio,fin,estado
+1,juan,12345,3333333,sssssssssssss,basico,2025-11-28,2025-12-28,activo
+2,juan,12345,333333,ssssssssss,basico,2025-11-28,2025-12-28,activo
+3,juan,12345,333333333,lalalalal,basico,2025-11-28,2025-12-28,activo
+4,jaja,1234,333333,lalalalalala,full,2025-11-28,2026-02-26,activo
